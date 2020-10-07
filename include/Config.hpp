@@ -1,0 +1,18 @@
+/*
+** EPITECH PROJECT, 2020
+** CCP_plazza_2019
+** File description:
+** Config
+*/
+
+#define KEYSHAREDMEMORY 4241
+#define BUFFER_SIZE 100
+#define PORT 4242
+#define TIME_SLEEP 0
+#define BEGIN_UID 1
+#define TIME_DIED_KITCHEN 5
+#define CHANNEL_STANDARD 1
+#define CHANNEL_DIED 2
+#define ID_RECEPTIONIST 0
+#define PERMISSION_IPC 0666
+#define WAITING_MESSAGE 0
